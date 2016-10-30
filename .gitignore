@@ -1,7 +1,0 @@
-.project
-.pydevproject
-.settings
-*.sh
-*.pyc
-
-.DS_Store
